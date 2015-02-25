@@ -1,0 +1,5 @@
+AppID: c16RZrYs6T08TRQ0BAjLVCYt7xrlEDQkN25jyOWJ
+Client Key: h7iJ36lByPKDT9w4Kj2evDUZQafQ71LDbpZ1dVvT
+
+Class: Stop
+Attributes:date, stopname, enteredSingle, enteredAbo, enteredFree, left, line
